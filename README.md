@@ -40,4 +40,4 @@ Strong password
 - User input handling
 
 ## Author
-Keerthisai
+Keerthisai A S
